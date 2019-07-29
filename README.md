@@ -1,7 +1,7 @@
 # color-guessing-game
-RGB color guessing
+A random rgb color code is generated and presented to the player. Click on the correct color from 3/6/9 possible colored squares.
 
-Exercise based on the Color Picking Game in the Web Developor Bootcamp course on Udemy, by Colt Steele.
+Exercise based on the Color Picking Game in the Web Developer Bootcamp course on Udemy, by Colt Steele.
 
 CUSTOMIZATIONS
 - css grid for layout instead of flexbox
